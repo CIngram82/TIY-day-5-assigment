@@ -1,0 +1,151 @@
+header {
+  margin: 1vw 2vw;
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+}
+
+header div {
+  display: flex;
+  align-items: center;
+}
+
+header p {
+  display: inline;
+  color: red;
+  padding: 1vh;
+}
+
+.shoes {
+  color: white;
+  background: linear-gradient(to right, rgb(222, 28, 117), rgb(255, 78, 36));
+  display: flex;
+  justify-content: space-around;
+  ba
+}
+
+.shoes.top img {
+  padding-left: 10vw;
+  max-width: 40vw;
+  max-height: auto;
+}
+
+.box {
+  padding: 2vw 5vw;
+  display: grid;
+}
+
+.logo {
+  height: 2vw;
+  width: auto;
+}
+
+.cart {
+  height: 1vw;
+  width: auto;
+}
+
+.price {
+  display: inline;
+  display: flex;
+  align-items: flex-start;
+}
+
+#buy {
+  background-color: white;
+  border-radius: 5px;
+  color: orangered;
+  padding: 10px;
+  max-width: 125px;
+}
+
+hr {
+  color: rgb(252, 194, 193);
+}
+
+#details nav {
+  margin: 1vw 1 1vw;
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+}
+
+#details nav div {
+  display: flex;
+  align-items: center;
+}
+
+#details nav a {
+  text-decoration: none;
+  display: inline;
+  color: red;
+  padding: 1vh;
+}
+
+.season {
+  color: darkred;
+}
+
+.bottom {
+  align-content:
+  justify-content: space-around;
+  padding: vw;
+}
+
+.bottom img {
+  max-height: 12vw;
+  max-height: auto;
+}
+
+#description {
+  display: inline;
+  border-top: 2px dashed darkred;
+  border-bottom: 2px dashed darkred;
+  padding: 2vh;
+}
+
+#reviews {
+  color: rgb(189, 53, 36);
+  display: inline;
+}
+
+#recomended {
+  text-align: center;
+  background-color: rgb(255, 236, 238);
+  height: 4vh;
+  padding-bottom: 6vh;
+  border: 1px solid black;
+}
+
+#details {
+  margin: 2vh 20vw;
+  padding: 1vh;
+}
+
+section div a {
+  color: orangered;
+}
+
+footer {
+  margin: 1vw 2vw;
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+}
+
+footer div {
+  display: flex;
+  align-items: center;
+}
+
+footer p {
+  display: inline;
+  color: red;
+  padding: 1vh;
+}
+#copy p{
+  color: black;
+}
+footer a {
+  color: black;
+}
